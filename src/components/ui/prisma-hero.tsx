@@ -125,7 +125,7 @@ const PrismaHero = () => {
                 className="text-xs text-[#E1E0CC]/70 sm:text-sm md:text-base font-medium"
                 style={{ lineHeight: 1.3 }}
               >
-                Slovan media is a worldwide network of visual artists, filmmakers and storytellers bound not by place, status or labels but by passion and hunger to unlock potential through our unique perspectives.
+                Sloven media is a worldwide network of visual artists, filmmakers and storytellers bound not by place, status or labels but by passion and hunger to unlock potential through our unique perspectives.
               </motion.p>
 
               <motion.button
