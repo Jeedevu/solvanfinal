@@ -94,7 +94,7 @@ export default function Component() {
           </div>
 
           <h1 className="relative mb-4 font-medium text-4xl text-neutral-900 tracking-tight sm:text-5xl dark:text-neutral-100">
-            Creative Cnippet Members
+            Creative Solvan media Members
             <svg
               className="absolute -top-2 -right-8 -z-10 w-24 text-neutral-200 dark:text-neutral-700"
               fill="currentColor"
@@ -113,7 +113,7 @@ export default function Component() {
             </svg>
           </h1>
           <p className="max-w-2xl text-neutral-600 dark:text-neutral-400">
-            Cnippet connects you with the most advanced tech solutions,
+           Solvan connects you with the most advanced tech solutions,
             empowering seamless communication.
           </p>
         </div>
