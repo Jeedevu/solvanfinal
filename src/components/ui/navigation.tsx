@@ -61,7 +61,7 @@ export function Navigation({ currentHash, theme, toggleTheme }: NavigationProps)
             onClick={() => handleLinkClick("#")}
             className="text-xl font-bold tracking-tight text-neutral-900 dark:text-[#E1E0CC] flex items-center gap-2"
           >
-            <span>SLOVAN MEDIA</span>
+            <span>SLOVEN MEDIA</span>
             <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
           </a>
 
